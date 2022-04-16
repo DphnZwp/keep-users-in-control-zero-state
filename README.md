@@ -14,21 +14,19 @@ Ik ben schetsen van de les kwijtgeraakt, dus ik heb zes nieuwe schetsen gemaakt.
 
 ## 3 ontwerpen
 <!-- Toon de 3 ontwerpen die je in detai hebt uitgewerkt, leg de Visuele Hieratchie uit en noteer de feedback van de opdrachtgever -->
-![Desktop - 15](https://user-images.githubusercontent.com/69635977/163678004-817bf1cc-f18f-43cc-bbc9-ec78cca52362.png)
+![Desktop - 15](https://user-images![Desktop - 10](https://user-images.githubusercontent.com/69635977/163678267-7be2082b-0e32-416c-af07-61de48a0c24f.png)
 
-![Desktop - 14](https://user-images.githubusercontent.com/69635977/163678007-3c452a1a-d6b1-4513-98cd-a94484f40b46.png)
+![Desktop - 9](https://user-images.githubusercontent.com/69635977/163678269-f9d8ca2a-7ddb-47dc-af1e-4cdf572c93ad.png)
 
-![Desktop - 5 (1)](https://user-images.githubusercontent.com/69635977/163678013-3a9fea9e-6d4b-4c46-9e6a-46e1bf7f428d.png)
+.githubusercontent.com/69635977/163678247-85e5b34b-77d7-4e69-ab0f-ce9917054e98.png)
+![Desktop - 11](https://user-images.githubusercontent.com/69635977/163678261-dfd09aaa-65b4-480c-bfd4-fc979d3c5c35.png)
 
-![Desktop - 13](https://user-images.githubusercontent.com/69635977/163678019-e3113750-d6f0-4fe8-be68-a58e828cbc64.png)
+![Desktop - 13](https://user-images.githubusercontent.com/69635977/163678253-a807d5fe-940d-4244-b7e4-9042f68adbc6.png)
 
-![Desktop - 12](https://user-images.githubusercontent.com/69635977/163678022-4be55253-12dd-4d93-b08a-dde3a571bd28.png)
+![Desktop - 14](https://user-images.githubusercontent.com/69635977/163678250-cfea9d35-af84-48f0-b0dd-731acc365f74.png)![Desktop - 12](https://user-images.githubusercontent.com/69635977/163678256-66cb0cb5-a2e2-4b16-b2ab-1aa6f5bd7aab.png)
 
-![Desktop - 11](https://user-images.githubusercontent.com/69635977/163678025-cc188896-d77a-40d6-b28f-4ab48c73354c.png)
+![Desktop - 8 (3)](https://user-images.githubusercontent.com/69635977/163678251-4f78cfb8-1da9-44ec-af9a-38773ea3ca39.png)
 
-![Desktop - 10](https://user-images.githubusercontent.com/69635977/163678027-45a44ca9-5a70-4c3f-ac12-98d37f3bcb34.png)
-
-![Desktop - 9](https://user-images.githubusercontent.com/69635977/163678030-40fadb23-8e3c-4e3d-81ff-21019cebec2a.png)
 
 ## Licentie
 
