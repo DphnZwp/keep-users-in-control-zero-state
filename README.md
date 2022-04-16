@@ -14,19 +14,19 @@ Ik ben schetsen van de les kwijtgeraakt, dus ik heb zes nieuwe schetsen gemaakt.
 
 ## 3 ontwerpen
 <!-- Toon de 3 ontwerpen die je in detai hebt uitgewerkt, leg de Visuele Hieratchie uit en noteer de feedback van de opdrachtgever -->
-![Desktop - 15](https://user-images![Desktop - 10](https://user-images.githubusercontent.com/69635977/163678267-7be2082b-0e32-416c-af07-61de48a0c24f.png)
+![Desktop - 15](https://user-images.githubusercontent.com/69635977/163678312-3758366a-3119-4d0d-bfa4-4b2664dd32ed.png)
 
-![Desktop - 9](https://user-images.githubusercontent.com/69635977/163678269-f9d8ca2a-7ddb-47dc-af1e-4cdf572c93ad.png)
+![Desktop - 14](https://user-images.githubusercontent.com/69635977/163678318-485c6d63-232f-4fdd-bf25-a5ea7428e01b.png)![Desktop - 11](https://user-images.githubusercontent.com/69635977/163678326-92fd8ed6-bab3-4aac-8e92-56800ee6130e.png)
 
-.githubusercontent.com/69635977/163678247-85e5b34b-77d7-4e69-ab0f-ce9917054e98.png)
-![Desktop - 11](https://user-images.githubusercontent.com/69635977/163678261-dfd09aaa-65b4-480c-bfd4-fc979d3c5c35.png)
+![Desktop - 13](https://user-images.githubusercontent.com/69635977/163678322-ff79c365-a415-421a-a963-4ed5acd54181.png)
 
-![Desktop - 13](https://user-images.githubusercontent.com/69635977/163678253-a807d5fe-940d-4244-b7e4-9042f68adbc6.png)
+![Desktop - 10](https://user-images.githubusercontent.com/69635977/163678328-15eedcd5-06db-4dc4-9614-51b53ec0e019.png)
 
-![Desktop - 14](https://user-images.githubusercontent.com/69635977/163678250-cfea9d35-af84-48f0-b0dd-731acc365f74.png)![Desktop - 12](https://user-images.githubusercontent.com/69635977/163678256-66cb0cb5-a2e2-4b16-b2ab-1aa6f5bd7aab.png)
+![Desktop - 9](https://user-images.githubusercontent.com/69635977/163678333-3def2fcf-ca16-4b84-9bb8-6a075d3070c0.png)
 
-![Desktop - 8 (3)](https://user-images.githubusercontent.com/69635977/163678251-4f78cfb8-1da9-44ec-af9a-38773ea3ca39.png)
+![Desktop - 12](https://user-images.githubusercontent.com/69635977/163678323-d9e7a813-425a-4f9a-a739-08c3cfe1687e.png)
 
+![Desktop - 8 (3)](https://user-images.githubusercontent.com/69635977/163678320-11d3b141-d10d-484f-bf3b-5e73e8c2eb6c.png)
 
 ## Licentie
 
