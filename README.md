@@ -13,11 +13,16 @@ Ik ben schetsen van de les kwijtgeraakt, dus ik heb zes nieuwe schetsen gemaakt.
 ![IMG_1439](https://user-images.githubusercontent.com/69635977/160085574-3a7398c7-839a-474d-b431-0abc77a04c86.jpg)
 
 ## 3 ontwerpen
+## Feedback van de opdrachtgever
+- Besteed meer tijd aan het ontwerp van de tabellen. Misschien een meer grafisch ontwerp.
+- Kijk of het beter is als de foto aan de linker kant is
 <!-- Toon de 3 ontwerpen die je in detai hebt uitgewerkt, leg de Visuele Hieratchie uit en noteer de feedback van de opdrachtgever -->
 ### Mijn eerste keuze
+Dit is mijn nieuwste ontwerp die ik had gemaakt voor de smartzones pagina.
 ![Desktop - 9](https://user-images.githubusercontent.com/69635977/163678333-3def2fcf-ca16-4b84-9bb8-6a075d3070c0.png)
 
 ### Tweede ontwerp
+Er is te veel ruimte aan de rechterkant onder het sorteer systeem.
 ![Desktop - 10](https://user-images.githubusercontent.com/69635977/163678328-15eedcd5-06db-4dc4-9614-51b53ec0e019.png)
 
 ### Derde ontwerp
