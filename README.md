@@ -20,8 +20,6 @@ Ik ben schetsen van de les kwijtgeraakt, dus ik heb zes nieuwe schetsen gemaakt.
 
 ![Desktop - 5 (1)](https://user-images.githubusercontent.com/69635977/163678013-3a9fea9e-6d4b-4c46-9e6a-46e1bf7f428d.png)
 
-![Desktop - 3 (6)](https://user-images.githubusercontent.com/69635977/163678017-f51c253f-6fd4-4e72-b348-04ca78a4e502.png)
-
 ![Desktop - 13](https://user-images.githubusercontent.com/69635977/163678019-e3113750-d6f0-4fe8-be68-a58e828cbc64.png)
 
 ![Desktop - 12](https://user-images.githubusercontent.com/69635977/163678022-4be55253-12dd-4d93-b08a-dde3a571bd28.png)
