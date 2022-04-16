@@ -9,7 +9,7 @@ Het is pagina waarin data van de API in tabellen te zien is.
 Als potentiële partner, wil ik smartzones kunnen sorteren, zodat ik een beter overzicht heb van functies, steden en locaties.
 
 ## Schetsen
-Ik ben schetsen van de les kwijtgeraakt, dus ik heb vijf nieuwe scher=tsen gemaakt.
+Ik ben schetsen van de les kwijtgeraakt, dus ik heb zes nieuwe schetsen gemaakt.
 ![IMG_1439](https://user-images.githubusercontent.com/69635977/160085574-3a7398c7-839a-474d-b431-0abc77a04c86.jpg)
 
 ## 3 ontwerpen
