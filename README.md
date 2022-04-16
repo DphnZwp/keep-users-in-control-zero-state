@@ -26,18 +26,15 @@ Er is te veel ruimte aan de rechterkant onder het sorteer systeem.
 ![Desktop - 10](https://user-images.githubusercontent.com/69635977/163678328-15eedcd5-06db-4dc4-9614-51b53ec0e019.png)
 
 ### Derde ontwerp
-![Desktop - 11](https://user-images.githubusercontent.com/69635977/163678326-92fd8ed6-bab3-4aac-8e92-56800ee6130e.png)
-
-### Vierde ontwerp
 ![Desktop - 12](https://user-images.githubusercontent.com/69635977/163678323-d9e7a813-425a-4f9a-a739-08c3cfe1687e.png)
 
-### Vijfde ontwerp
+### Vierde ontwerp
 ![Desktop - 13](https://user-images.githubusercontent.com/69635977/163678322-ff79c365-a415-421a-a963-4ed5acd54181.png)
 
-### Zesde ontwerp
+### Vijfde ontwerp
 ![Desktop - 14](https://user-images.githubusercontent.com/69635977/163678318-485c6d63-232f-4fdd-bf25-a5ea7428e01b.png)
 
-### Zevende ontwerp
+### Zesde ontwerp
 ![Desktop - 15](https://user-images.githubusercontent.com/69635977/163678312-3758366a-3119-4d0d-bfa4-4b2664dd32ed.png)
 
 
